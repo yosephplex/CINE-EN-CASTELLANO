@@ -1,7 +1,17 @@
 #EXTM3U  
+
+#EXTINF:-1,EL RESPLANDOR-THE SHINING
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt0081505_CAST_HD.mp4
+
+#EXTINF:-1,DOCTOR SUEÑO
+https://s002.thevid.net/v/027d47839447af6db92d86ff6eae0cbe.mp4?e=1573872092&sa=0xA5Hzm3QmhJlW-5cn8rGA&st=oKO38zOKMg0bC7rJCn9AFw
+
 #EXTINF:0,ES Star Wars Los Ultimos Jedi FHD
-#EXTVLCOPT:network-caching=1000
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2552.mkv
+
+
+#EXTINF:-1,LO NUNCA VISTO
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8296660_CAST_HD.mp4
 
 #EXTINF:0,ES Han Solo Una historia de Star Wars
 #EXTVLCOPT:network-caching=1000
