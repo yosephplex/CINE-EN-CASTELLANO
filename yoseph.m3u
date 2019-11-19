@@ -1,5 +1,11 @@
 #EXTM3U  
 
+#EXTINF:-1,Antes de la quema
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8746842_CAST_HD.mp4
+
+#EXTINF:-1,El lado siniestro de la luna-netflix
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8110640_CAST_HD.mp4
+
 #EXTINF:-1,ELI 2019
 https://nlw06.hlssrv.com/v2/schema/Xh95nMdyLBnWggyyavuc/med.m3u8
 
