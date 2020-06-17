@@ -9,11 +9,14 @@ https://raw.githubusercontent.com/yosephplex/grupoplex/master/movistarplusroland
 
 #EXTINF:-1,ESTRENOS EN CASTELLANO 2020
 #EXTSIZE: BIG
-#EXTBG: https://media0.giphy.com/media/xz1HuQuBpzb2/source.gif
+https://www.dropbox.com/s/cilfvlx83vxtv6y/TDTESPA%C3%91ABYAL3X92.M3U
 https://raw.githubusercontent.com/yosephplex/CINE-EN-CASTELLANO/master/estrenosencastellano.m3u
+#EXTINF:-1 tvg-logo="https://premiumtv.site/wp-content/uploads/2019/08/premiumLogo.png",movistar es
+#EXTBG:https://pbs.twimg.com/media/EJJde-XXsAA9LDW.jpg
+https://dl.dropboxusercontent.com/sc2xmhcmrzvqpf0e/movistares.m3u
 
-
-
+#EXTBG: https://media0.giphy.com/media/xz1HuQuBpzb2/source.g
+if
 #EXTINF:-1,MOVISTAR+PREMIUM 
 #EXTSIZE: BIG
 #EXTBG: https://www.gsmspain.com/foros/attach/14/148013.gif
